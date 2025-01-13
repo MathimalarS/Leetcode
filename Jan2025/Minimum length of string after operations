@@ -1,0 +1,22 @@
+class Solution {
+    public int minimumLength(String s) {
+        HashMap<Character,Integer>map=new HashMap<>();
+        for(char c:s.toCharArray())
+        {
+            map.put(c,map.getOrDefault(c,0)+1);
+        }
+        int delc=0;
+        for(int f:map.values())
+        {
+            if(f%2==1)
+            {
+                delc+=f-1;
+            }
+            else
+            {
+                delc+=f-2;
+            }
+        }
+        return s.length()-delc;
+    }
+}
