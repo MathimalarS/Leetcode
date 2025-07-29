@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/MathimalarS/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/MathimalarS/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0792-binary-search](https://github.com/MathimalarS/Leetcode/tree/master/0792-binary-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MathimalarS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0697-degree-of-an-array](https://github.com/MathimalarS/Leetcode/tree/master/0697-degree-of-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/MathimalarS/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
