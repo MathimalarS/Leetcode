@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MathimalarS/Leetcode/tree/master/0053-maximum-subarray) |
 | [0682-baseball-game](https://github.com/MathimalarS/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/MathimalarS/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/MathimalarS/Leetcode/tree/master/0792-binary-search) |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/MathimalarS/Leetcode/tree/master/0792-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MathimalarS/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MathimalarS/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
