@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MathimalarS/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/MathimalarS/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MathimalarS/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/MathimalarS/Leetcode/tree/master/0125-valid-palindrome) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MathimalarS/Leetcode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/MathimalarS/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
