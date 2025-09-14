@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MathimalarS/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MathimalarS/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/MathimalarS/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MathimalarS/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -92,6 +93,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MathimalarS/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MathimalarS/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/MathimalarS/Leetcode/tree/master/0125-valid-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MathimalarS/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
