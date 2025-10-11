@@ -118,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
