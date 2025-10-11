@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MathimalarS/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MathimalarS/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/MathimalarS/Leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/MathimalarS/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/MathimalarS/Leetcode/tree/master/0792-binary-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MathimalarS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -114,4 +115,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MathimalarS/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MathimalarS/Leetcode/tree/master/0009-palindrome-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
