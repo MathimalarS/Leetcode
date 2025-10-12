@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MathimalarS/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MathimalarS/Leetcode/tree/master/0053-maximum-subarray) |
+| [0867-new-21-game](https://github.com/MathimalarS/Leetcode/tree/master/0867-new-21-game) |
 ## Sorting
 |  |
 | ------- |
@@ -110,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MathimalarS/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0867-new-21-game](https://github.com/MathimalarS/Leetcode/tree/master/0867-new-21-game) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/MathimalarS/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MathimalarS/Leetcode/tree/master/0009-palindrome-number) |
+| [0867-new-21-game](https://github.com/MathimalarS/Leetcode/tree/master/0867-new-21-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/MathimalarS/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
