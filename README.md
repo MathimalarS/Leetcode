@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MathimalarS/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MathimalarS/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MathimalarS/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/MathimalarS/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MathimalarS/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MathimalarS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MathimalarS/Leetcode/tree/master/0075-sort-colors) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MathimalarS/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MathimalarS/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/MathimalarS/Leetcode/tree/master/0048-rotate-image) |
 | [0867-new-21-game](https://github.com/MathimalarS/Leetcode/tree/master/0867-new-21-game) |
 ## Depth-First Search
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MathimalarS/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/MathimalarS/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
 ## Tree
