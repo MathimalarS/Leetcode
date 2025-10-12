@@ -7,6 +7,7 @@ class Solution {
         {
             i--;
         }
+
         if(i>=0)
         {
             int j=n-1;
@@ -17,7 +18,6 @@ class Solution {
             swap(nums,i,j);
         }
         reverse(nums,i+1,n-1);
-        // return nums;
     }
     private static void swap(int nums[],int i,int j)
     {
@@ -29,8 +29,9 @@ class Solution {
     {
         while(start<end)
         {
-            swap(nums,start++,end--);
+            swap(nums,start,end);
+            start++;
+            end--;
         }
     }
-
 }
