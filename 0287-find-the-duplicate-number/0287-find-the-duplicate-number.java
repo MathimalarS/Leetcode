@@ -1,16 +1,21 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        int n=nums.length;
-        Set<Integer> set=new HashSet<>();
-        int dup=0;
-        for(int i=0;i<n;i++)
-        {
-            if(set.contains(nums[i]))
-            {
-                dup=nums[i];
-            }
-            set.add(nums[i]);
+        int slow = nums[0];
+        int fast = nums[0];
+
+        // Detect intersection
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
+
+        // Find entrance (duplicate)
+        slow = nums[0];
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        return dup;
+ 
+        return slow;
     }
 }
