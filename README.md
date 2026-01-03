@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MathimalarS/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MathimalarS/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-new-21-game](https://github.com/MathimalarS/Leetcode/tree/master/0867-new-21-game) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MathimalarS/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Sorting
 |  |
 | ------- |
