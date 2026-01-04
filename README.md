@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/MathimalarS/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/MathimalarS/Leetcode/tree/master/0792-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MathimalarS/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/MathimalarS/Leetcode/tree/master/1390-four-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MathimalarS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/MathimalarS/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MathimalarS/Leetcode/tree/master/0066-plus-one) |
 | [0867-new-21-game](https://github.com/MathimalarS/Leetcode/tree/master/0867-new-21-game) |
+| [1390-four-divisors](https://github.com/MathimalarS/Leetcode/tree/master/1390-four-divisors) |
 ## Depth-First Search
 |  |
 | ------- |
