@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/MathimalarS/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -186,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/MathimalarS/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/MathimalarS/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Probability and Statistics
 |  |
 | ------- |
