@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MathimalarS/Leetcode/tree/master/0792-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MathimalarS/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/MathimalarS/Leetcode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/MathimalarS/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/MathimalarS/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MathimalarS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MathimalarS/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-new-21-game](https://github.com/MathimalarS/Leetcode/tree/master/0867-new-21-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MathimalarS/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/MathimalarS/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Sorting
 |  |
 | ------- |
