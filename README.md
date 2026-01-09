@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MathimalarS/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MathimalarS/Leetcode/tree/master/0229-majority-element-ii) |
 | [0697-degree-of-an-array](https://github.com/MathimalarS/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MathimalarS/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MathimalarS/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
@@ -167,12 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MathimalarS/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MathimalarS/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/MathimalarS/Leetcode/tree/master/0695-max-area-of-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MathimalarS/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Union Find
 |  |
 | ------- |
@@ -189,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MathimalarS/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MathimalarS/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MathimalarS/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MathimalarS/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MathimalarS/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Probability and Statistics
 |  |
