@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/MathimalarS/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MathimalarS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MathimalarS/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MathimalarS/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MathimalarS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MathimalarS/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/MathimalarS/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MathimalarS/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MathimalarS/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MathimalarS/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Binary Search
 |  |
 | ------- |
