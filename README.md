@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MathimalarS/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/MathimalarS/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MathimalarS/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/MathimalarS/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MathimalarS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MathimalarS/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MathimalarS/Leetcode/tree/master/0229-majority-element-ii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/MathimalarS/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Two Pointers
 |  |
 | ------- |
