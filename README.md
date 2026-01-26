@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/MathimalarS/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/MathimalarS/Leetcode/tree/master/0792-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MathimalarS/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1200-minimum-absolute-difference](https://github.com/MathimalarS/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MathimalarS/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/MathimalarS/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MathimalarS/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MathimalarS/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MathimalarS/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MathimalarS/Leetcode/tree/master/0229-majority-element-ii) |
+| [1200-minimum-absolute-difference](https://github.com/MathimalarS/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MathimalarS/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Two Pointers
 |  |
